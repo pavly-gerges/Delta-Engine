@@ -1,0 +1,10 @@
+<!-- delta-logo-tricolor.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-labelledby="title3">
+  <title id="title3">Delta-Engine Tricolor Symbol</title>
+  <circle cx="100" cy="100" r="92" fill="#ffffff" stroke="#0033A0" stroke-width="6"/>
+  <g transform="translate(100,100) rotate(-30)">
+    <path d="M0,-70 L20,-20 L-20,-20 Z" fill="#D50000"/>
+    <path d="M60,35 L20,20 L35,60 Z" fill="#0033A0"/>
+    <path d="M-60,35 L-35,60 L-20,20 Z" fill="#ffffff" stroke="#D50000" stroke-width="2"/>
+  </g>
+</svg>
