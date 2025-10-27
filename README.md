@@ -1,4 +1,4 @@
-# Delta-Engine
+# <img src="https://github.com/pavly-gerges/Delta-Engine/blob/master/assets/logo.svg" width=90 height=90/> Delta-Engine
 
 A realtime Newtonian-based physics and hardware engine library with an API designed to address problems of simulation and real object dynamics; the idea is to couple building a physics simulator with emulating IO using the same abstraction via polymorphism and encapsulation (e.g., building a human joint simulator on a 3D game engine and deploying it on a hardware stepper motor module to emulate the same motion using electronic components in a different system using the same code).
 
