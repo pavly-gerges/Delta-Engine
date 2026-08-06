@@ -1,4 +1,4 @@
-# Delta-Engine
+# A physical abstraction for robotics: Delta-Engine
 
 ## Abstract
 Scientific abstractions are one of the very useful techniques to implement software to control embedded microcontrollers for heavy machinery operations. In this paper, we introduce a physics engine that provides a new software paradigm for IO control for embedded systems and robotics based on a mathematical-physical abstraction.
